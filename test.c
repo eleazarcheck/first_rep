@@ -10,7 +10,7 @@ if (scanf("%4u",&a) !=1) {
 }
 
 printf ("%s",(a%3000 >=0 && a%3000<=999) ? (a / 3000 == 1 ? "yes" : "no") : "no");
-printf("Hello world");
+printf("Hello world bebebe");
 
     return 0;
 }
